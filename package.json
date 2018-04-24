@@ -1,0 +1,22 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ay8yt/spider.git"
+  },
+  "author": "yintao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ay8yt/spider/issues"
+  },
+  "homepage": "https://github.com/ay8yt/spider#readme",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
